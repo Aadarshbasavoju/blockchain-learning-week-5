@@ -8,9 +8,6 @@ This repository contains smart contracts for Part 1 of the assignment. The goal 
 - The task involves identifying the bugs in the contracts and writing exploit contracts/tests to demonstrate the vulnerabilities.
 - Corrected versions of the contracts (`Exercise_1_Corrected.sol` and `Exercise_2_Corrected.sol`) are provided to address the identified vulnerabilities.
 
-## Folder Structure
-- `contracts`: Contains the original and corrected versions of the smart contracts.
-- `tests`: Contains test scripts to validate the contracts and ensure the corrections are effective.
 
 ## Instructions
 1. Review the provided contracts (`Exercise_1.sol` and `Exercise_2.sol`) to identify potential bugs.
